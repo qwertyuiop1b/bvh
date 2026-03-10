@@ -1,0 +1,7 @@
+.idea
+.vscode
+.cache
+*.exe
+.DS_Store
+*.sln
+build/
